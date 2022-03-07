@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yashwanthyashu48@gmail.com**
 
-- ⚡ Fun fact **I'm into memes!**
+- ⚡ Fun fact **I'm into memes, anime and manhwa!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
