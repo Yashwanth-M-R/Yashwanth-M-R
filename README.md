@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="1080" src="https://www.cultofmac.com/ezoimgfmt/cdn.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg">
 
-<h1 align="center">Hi 👋, I'm Yashwanth M R</h1>
+<h1 align="center">Hi 👋, I am Yashwanth M R</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47w67v6vpi981ty40p8tnqtqzk6vhx08pd7gdes528&rid=giphy.gif&ct=g">
