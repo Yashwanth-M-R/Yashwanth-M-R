@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, ReactJs, BootStrap, TailwindCSS**
 
-- 📫 How to reach me **4nn19cs036@nieit.ac.in**
+- 📫 How to reach me **yashwanth9102001@gmail.com**
 
 - ⚡ Fun fact **I'm into memes, Anime and Webtoons**
 
