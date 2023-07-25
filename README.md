@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanth-m-r&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanth-m-r" /> </p>
 
-- 🌱 I’m currently learning **Backend Technologies such as NodeJs, MongoDB, Mongoose etc**
+- 🌱 I’m currently working as an Engineer at Embitel technologies**
 
 - 💬 Ask me about **HTML, CSS, JS, ReactJs, BootStrap, TailwindCSS**
 
